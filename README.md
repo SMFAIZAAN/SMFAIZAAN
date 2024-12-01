@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Md Faizan</h1>
-<h3 align="center">Recent Electronics and Communication Engineering graduate (2023) seeking a challenging role in a reputable organization. Eager to leverage technical, database, and management skills for organizational growth while staying abreast of emerging trends.</h3>
+<h3 align="center">A Recent Electronics and Communication Engineering graduate (2023) seeking a Data Analyst role in a reputable organization. Proficient in Python, SQL, Excel, and data visualization tools like Power BI. Eager to leverage technical and analytical skills to extract insights, support decision-making, and drive organizational growth while staying updated with emerging trends.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/smfaizaan/home](https://sites.google.com/view/smfaizaan/home)
 
-- 💬 Ask me about **Python,MySQL,DBMS,Excel,Google Sheets**
+- 💬 Ask me about **Python, MySQL, Excel, and Power BI**
 
-- 📫 How to reach me **shaikhmdfaizaan@gmail.com Or '8709840321'**
+- 📫 How to reach me **shaikhmdfaizaan@gmail.com Or '+971 502832090'**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19pKGVsr7QB47w2KIb3FdHU-6s9-akGwN/view?usp=sharing](https://drive.google.com/file/d/19pKGVsr7QB47w2KIb3FdHU-6s9-akGwN/view?usp=sharing)
 
